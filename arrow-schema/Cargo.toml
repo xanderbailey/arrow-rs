@@ -17,7 +17,7 @@
 
 [package]
 name = "arrow-schema"
-version = { workspace = true }
+version = "57.3.0"
 description = "Defines the logical types for arrow arrays"
 homepage = { workspace = true }
 repository = { workspace = true }
